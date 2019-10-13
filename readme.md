@@ -5,6 +5,8 @@
 The aim of this project is to create a simple filesystem in **C** with these functionalities:
 * *create* : create a new .txt file
 * *create_dir* : create a new directory
+* *read* : read a file
+* *write* : write and, eventually, overwrite a file
 * *delete* : delete a file
 * *delete_dir* : delete a directory
 * *find* : return the path/paths of file/files named with the string passed as an input
